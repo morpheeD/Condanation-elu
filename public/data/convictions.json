@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Patrick Balkany",
+    "house": "National Assembly",
+    "convictions": [
+      {
+        "year": 2019,
+        "type": "Fraude fiscale",
+        "description": "Condamn\u00e9 \u00e0 quatre ans de prison ferme pour fraude fiscale.",
+        "source": "Le Monde"
+      },
+      {
+        "year": 2019,
+        "type": "Blanchiment de fraude fiscale",
+        "description": "Condamn\u00e9 \u00e0 cinq ans de prison ferme pour blanchiment de fraude fiscale.",
+        "source": "Le Monde"
+      }
+    ]
+  },
+  {
+    "name": "Isabelle Balkany",
+    "house": "National Assembly",
+    "convictions": [
+      {
+        "year": 2019,
+        "type": "Fraude fiscale",
+        "description": "Condamn\u00e9e \u00e0 trois ans de prison ferme pour fraude fiscale.",
+        "source": "Le Monde"
+      }
+    ]
+  },
+  {
+    "name": "Claude Gu\u00e9ant",
+    "house": "National Assembly",
+    "convictions": [
+      {
+        "year": 2017,
+        "type": "D\u00e9tournement de fonds publics",
+        "description": "Affaire des primes en liquide du minist\u00e8re de l'Int\u00e9rieur.",
+        "source": "Lib\u00e9ration"
+      }
+    ]
+  },
+  {
+    "name": "Nicolas Sarkozy",
+    "house": "National Assembly",
+    "convictions": [
+      {
+        "year": 2021,
+        "type": "Corruption",
+        "description": "Affaire des \u00e9coutes (Bismuth).",
+        "source": "Le Monde"
+      },
+      {
+        "year": 2021,
+        "type": "Financement ill\u00e9gal de campagne",
+        "description": "Affaire Bygmalion.",
+        "source": "Le Figaro"
+      }
+    ]
+  },
+  {
+    "name": "Fran\u00e7ois Fillon",
+    "house": "National Assembly",
+    "convictions": [
+      {
+        "year": 2020,
+        "type": "D\u00e9tournement de fonds publics",
+        "description": "Affaire des emplois fictifs de son \u00e9pouse Penelope Fillon.",
+        "source": "Le Monde"
+      }
+    ]
+  },
+  {
+    "name": "Marine Le Pen",
+    "house": "National Assembly",
+    "convictions": [
+      {
+        "year": 2014,
+        "type": "Diffamation",
+        "description": "Affaire des faux tracts \u00e0 H\u00e9nin-Beaumont.",
+        "source": "Le Monde"
+      }
+    ]
+  },
+  {
+    "name": "J\u00e9r\u00f4me Cahuzac",
+    "house": "National Assembly",
+    "convictions": [
+      {
+        "year": 2016,
+        "type": "Fraude fiscale",
+        "description": "Condamn\u00e9 pour fraude fiscale et blanchiment de fraude fiscale.",
+        "source": "Lib\u00e9ration"
+      }
+    ]
+  },
+  {
+    "name": "Adrien Quatennens",
+    "house": "National Assembly",
+    "convictions": [
+      {
+        "year": 2022,
+        "type": "Violences conjugales",
+        "description": "Condamn\u00e9 \u00e0 quatre mois de prison avec sursis pour violences sur son \u00e9pouse.",
+        "source": "Le Monde"
+      }
+    ]
+  },
+  {
+    "name": "Sylvie Andrieux",
+    "house": "National Assembly",
+    "convictions": [
+      {
+        "year": 2013,
+        "type": "D\u00e9tournement de fonds publics",
+        "description": "Condamn\u00e9e \u00e0 un an de prison ferme dans l'affaire des subventions d\u00e9tourn\u00e9es du conseil r\u00e9gional PACA.",
+        "source": "Le Monde"
+      }
+    ]
+  },
+  {
+    "name": "Alain Carignon",
+    "house": "National Assembly",
+    "convictions": [
+      {
+        "year": 1996,
+        "type": "Corruption",
+        "description": "Affaire Dauphin\u00e9 News, condamn\u00e9 \u00e0 5 ans de prison dont 4 ferme.",
+        "source": "Lib\u00e9ration"
+      }
+    ]
+  },
+  {
+    "name": "Michel Mouillot",
+    "house": "National Assembly",
+    "convictions": [
+      {
+        "year": 2005,
+        "type": "Corruption",
+        "description": "Condamn\u00e9 pour corruption et blanchiment dans l'affaire des casinos de Cannes.",
+        "source": "Le Figaro"
+      }
+    ]
+  },
+  {
+    "name": "Jean-Pierre Kucheida",
+    "house": "National Assembly",
+    "convictions": [
+      {
+        "year": 2013,
+        "type": "Abus de biens sociaux",
+        "description": "Condamn\u00e9 pour avoir utilis\u00e9 la carte bancaire de la Soginorpa.",
+        "source": "Lib\u00e9ration"
+      }
+    ]
+  },
+  {
+    "name": "Alain Joyandet",
+    "house": "National Assembly",
+    "convictions": [
+      {
+        "year": 2010,
+        "type": "Prise ill\u00e9gale d'int\u00e9r\u00eats",
+        "description": "Condamn\u00e9 dans une affaire de permis de construire.",
+        "source": "Le Monde"
+      }
+    ]
+  },
+  {
+    "name": "Kader Arif",
+    "house": "National Assembly",
+    "convictions": [
+      {
+        "year": 2022,
+        "type": "Favoritisme",
+        "description": "Condamn\u00e9 \u00e0 un an de prison avec sursis pour favoritisme et prise ill\u00e9gale d'int\u00e9r\u00eats.",
+        "source": "Le Point"
+      }
+    ]
+  },
+  {
+    "name": "Olivier Dussopt",
+    "house": "National Assembly",
+    "convictions": [
+      {
+        "year": 2024,
+        "type": "Favoritisme",
+        "description": "Condamn\u00e9 pour favoritisme dans un march\u00e9 public de traitement de l'eau.",
+        "source": "Le Monde"
+      }
+    ]
+  },
+  {
+    "name": "Mustapha Laabid",
+    "house": "National Assembly",
+    "convictions": [
+      {
+        "year": 2019,
+        "type": "Abus de confiance",
+        "description": "Condamn\u00e9 pour avoir d\u00e9tourn\u00e9 des fonds d'une association.",
+        "source": "Le Monde"
+      }
+    ]
+  },
+  {
+    "name": "Thierry Sol\u00e8re",
+    "house": "National Assembly",
+    "convictions": [
+      {
+        "year": 2023,
+        "type": "Fraude fiscale",
+        "description": "Mis en examen dans de multiples dossiers (fraude fiscale, d\u00e9tournement de fonds).",
+        "source": "Le Monde"
+      }
+    ]
+  },
+  {
+    "name": "Jean-No\u00ebl Gu\u00e9rini",
+    "house": "Senate",
+    "convictions": [
+      {
+        "year": 2021,
+        "type": "Prise ill\u00e9gale d'int\u00e9r\u00eats",
+        "description": "Condamn\u00e9 \u00e0 trois ans de prison dont 18 mois ferme pour prise ill\u00e9gale d'int\u00e9r\u00eats.",
+        "source": "Le Monde"
+      }
+    ]
+  },
+  {
+    "name": "Herv\u00e9 Marseille",
+    "house": "Senate",
+    "convictions": [
+      {
+        "year": 2015,
+        "type": "Favoritisme",
+        "description": "Condamn\u00e9 dans une affaire de chauffage urbain \u00e0 Meudon.",
+        "source": "Le Parisien"
+      }
+    ]
+  }
+]

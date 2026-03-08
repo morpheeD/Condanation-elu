@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualisation des Condamnations des Élus</title>
+    <link rel="stylesheet" href="./src/style.css">
+</head>
+<body>
+    <header>
+        <h1>Observatoire des Condamnations des Élus</h1>
+        <div class="controls">
+            <div class="control-group">
+                <label for="house-select">Chambre :</label>
+                <select id="house-select">
+                    <option value="deputes">Assemblée Nationale</option>
+                    <option value="senateurs">Sénat</option>
+                </select>
+            </div>
+            <div class="control-group">
+                <label for="year-select">Législature :</label>
+                <select id="year-select">
+                    <option value="2024">2024-Présent</option>
+                    <option value="2022">2022-2024</option>
+                    <option value="2017">2017-2022</option>
+                    <option value="2012">2012-2017</option>
+                </select>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div id="visualization-container">
+            <div id="hemicycle"></div>
+        </div>
+        <div id="info-panel" class="hidden">
+            <h2 id="info-name"></h2>
+            <p id="info-party"></p>
+            <div id="info-convictions"></div>
+        </div>
+    </main>
+
+    <div id="tooltip" class="hidden"></div>
+
+    <script type="module" src="./src/main.js"></script>
+</body>
+</html>
